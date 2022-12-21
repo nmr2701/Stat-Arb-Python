@@ -1,5 +1,5 @@
 # Stat-Arb-Python
-Developed a Statistical Arbitrage Model in python. The model uses the stocks movements of Coke and Pepsi as a test, however any co-integrated stocks could be used
+Developed a Statistical Arbitrage Model in python. The model uses the stock movements of Coke and Pepsi as a test, however any co-integrated stocks could be used
 
 The model executes trades depending on the Z-Score calculations and sells trades in a stop-loss system. With Coke and Pepsi, the model managed to beat the market on average over the period of 2012-2022.
 
